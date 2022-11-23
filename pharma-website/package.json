@@ -1,0 +1,31 @@
+{
+  "name": "@ranjan35gupta/pharma-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjan35gupta/pharma-website.git"
+  },
+  "publishConfig": {
+    "@ranjan35gupta:registry": "https://npm.pkg.github.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ranjan35gupta/pharma-website/issues"
+  },
+  "homepage": "https://github.com/ranjan35gupta/pharma-website#readme"
+}
